@@ -5,9 +5,9 @@
 
 Sobre mim:
 
-- 🖥️ Atualmente trabalho na **Líder Distribuidor** como Aprendiz de Analista de Dados
+- 🖥️ Atualmente trabalho na **Líder Distribuidor** como Aprendiz de Analista de Dados, Trabalhando atualmente com Excel, Power BI, Python, Jupyter e VBA
 - 🤔 Estudante de Matemática na UESB - Universidade Estadual do Sudoeste da Bahia
-- 💬 Área de estudo: Lógica de Programação e Sistemas Embarcados
+- 💬 Área de estudo: Lógica de Programação, Circuitos Lógicos
 - 📜 Linguagens de programação: C, C++, HTML, CSS, GoLang e JavaScript
 
 <div align="center">
