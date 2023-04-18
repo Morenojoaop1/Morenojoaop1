@@ -5,11 +5,11 @@
 
 Sobre mim:
 
-- 🖥️ Atualmente trabalho na **Líder Distribuidor** como Aprendiz de Analista de Dados
-- 💻 Trabalhando atualmente com Excel, Power BI, Python, Jupyter e VBA
+- 🖥️ Atualmente produzindo trabalhos acadêmicos sobre Gamificação na Educação Básica
+- 💻 Já trabalhei com Excel, Power BI, Python, Jupyter e VBA
 - 🤔 Estudante de Matemática na UESB - Universidade Estadual do Sudoeste da Bahia
 - 💬 Área de estudo: Lógica de Programação, Circuitos Lógicos
-- 📜 Linguagens de programação: C, C++, HTML, CSS, GoLang e JavaScript
+- 📜 Linguagens de programação: C, C++, HTML, CSS e JavaScript
 
 <div align="center">
   <a href="https://github.com/Morenojoaop1">
