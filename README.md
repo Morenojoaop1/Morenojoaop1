@@ -10,13 +10,6 @@ Sobre mim:
 - 🤔 Estudante de Matemática na UESB - Universidade Estadual do Sudoeste da Bahia
 - 💬 Área de estudo: Lógica de Programação, Circuitos Lógicos
 - 📜 Linguagens de programação: C, C++, HTML, CSS e JavaScript
-
-<div align="center">
-  <a href="https://github.com/Morenojoaop1">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Morenojoaop1&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Morenojoaop1&layout=compact&langs_count=50&theme=cobalt"/>
-</div>
-
    
 <a href="https://instagram.com/morenojoaop" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.twitch.tv/onlymoreno" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
